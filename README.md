@@ -2,13 +2,13 @@
 
 Login to your BOSE Wifi account using the terminal.
 
-![BOSE Connect](https://raw.githubusercontent.com/sebinbabu/bose-connect/master/image.png)
+![bose](https://raw.githubusercontent.com/sebinbabu/bose-connect/master/image.jpg)
 
 
 ### Prerequisites
 
-You need to install the following two packages: 
-* curl / libcurl : Developer’s libraries for curl
+You need to install the following package: 
+* Golang : to compile the source
 
 ## Getting Started
 
@@ -22,7 +22,14 @@ sudo make install
 ```
 ## Usage
 
-Use the ```hammock help``` command to get instructions.
+Use the ```bose help``` command to get instructions.
+
+#### Example usage
+
+* ```hammock login``` : initializes the bose config with your credentials
+* ```hammock connect``` : signs in to the network using stored credentials
+* ```hammock disconnect``` : signs out of the network
+* ```hammock help``` : displays help
 
 ## Authors / Credits
 
