@@ -2,9 +2,6 @@
 
 Login to your BOSE Wifi account using the terminal.
 
-![bose](https://raw.githubusercontent.com/sebinbabu/bose-connect/master/image.jpg)
-
-
 ### Prerequisites
 
 You need to install the following package: 
