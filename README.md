@@ -23,10 +23,10 @@ Use the ```bose help``` command to get instructions.
 
 #### Example usage
 
-* ```hammock login``` : initializes the bose config with your credentials
-* ```hammock connect``` : signs in to the network using stored credentials
-* ```hammock disconnect``` : signs out of the network
-* ```hammock help``` : displays help
+* ```bose login``` : initializes the bose config with your credentials
+* ```bose connect``` : signs in to the network using stored credentials
+* ```bose disconnect``` : signs out of the network
+* ```bose help``` : displays help
 
 ## Authors / Credits
 
